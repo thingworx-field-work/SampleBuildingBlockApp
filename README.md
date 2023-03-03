@@ -1,6 +1,6 @@
 # SampleBuildingBlockApp
 
-This is a sample of the ReadMe.md content to be used by code authors that will share use cases develped with building blocks. 
+This is a sample of the README.md content to be used by code authors that will share use cases develped with building blocks. 
 
 # Disclaimer
 By downloading this software, the user acknowledges that it is unsupported, not reviewed for security purposes, and that the user assumes all risk for running it.
