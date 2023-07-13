@@ -1,8 +1,7 @@
 # SampleBuildingBlockApp
 This is a sample SCO application build with building blocks as an example for engineering teams that want to create new solutions. 
 Not to be confused with the /SampleBlock that is an example of a sharing a building block and does not have a real app in the exports. 
-# Overview
-Provide here a description of 1-2 paragraphs of the use case/feature/product gap this code addresses.     
+   
 
 # Disclaimer
 By downloading this software, the user acknowledges that it is unsupported, not reviewed for security purposes, and that the user assumes all risk for running it.
